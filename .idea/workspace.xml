@@ -31,21 +31,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1 generic.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1 generic.html">
+      <file leaf-file-name="1 links.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1 links.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.40052357">
-              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2 generic.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2 generic.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.3076923">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            <state vertical-scroll-proportion="0.3115183">
+              <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -66,6 +56,7 @@
         <option value="$PROJECT_DIR$/1 tables.html" />
         <option value="$PROJECT_DIR$/1 generic.html" />
         <option value="$PROJECT_DIR$/2 generic.html" />
+        <option value="$PROJECT_DIR$/1 links.html" />
       </list>
     </option>
   </component>
@@ -220,6 +211,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/2 generic.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08900524">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/1 tables.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.8846154">
@@ -228,18 +227,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2 generic.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.3076923">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1 generic.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.40052357">
           <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1 links.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3115183">
+          <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
           <folding />
         </state>
       </provider>
