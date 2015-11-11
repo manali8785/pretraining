@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94fff048-286c-46f8-9d84-58562368cbac" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7 Form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8 Form.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PRe-Training.iws" />
@@ -24,13 +24,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="7 Form.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/7 Form.html">
+      <file leaf-file-name="8 Form.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/8 Form.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.09042553">
-              <caret line="8" column="60" selection-start-line="8" selection-start-column="60" selection-end-line="8" selection-end-column="60" />
+            <state vertical-scroll-proportion="0.4973404">
+              <caret line="11" column="116" selection-start-line="11" selection-start-column="116" selection-end-line="11" selection-end-column="116" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tiger.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tiger.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -84,6 +91,7 @@
         <option value="$PROJECT_DIR$/5 Form.html" />
         <option value="$PROJECT_DIR$/6 Form.html" />
         <option value="$PROJECT_DIR$/7 Form.html" />
+        <option value="$PROJECT_DIR$/8 Form.html" />
       </list>
     </option>
   </component>
@@ -322,11 +330,6 @@
         <state vertical-scroll-proportion="0.3115183">
           <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tiger.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2 image.html">
@@ -584,8 +587,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/7 Form.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09042553">
-          <caret line="8" column="60" selection-start-line="8" selection-start-column="60" selection-end-line="8" selection-end-column="60" />
+        <state vertical-scroll-proportion="0.5930851">
+          <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiger.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8 Form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4973404">
+          <caret line="11" column="116" selection-start-line="11" selection-start-column="116" selection-end-line="11" selection-end-column="116" />
           <folding />
         </state>
       </provider>

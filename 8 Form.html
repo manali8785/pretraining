@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Form 8</title>
+</head>
+<body>
+<Form id="form1" action="welcome.html" method="get">
+    FirstName:  <input type="text" name="fname" value="manali" readonly size="10"><br><br>
+    LastName:   <input type="text" name="lname" value="nirhali" disabled ><br><br>
+    email: <input type="email" name="email" maxlength="20" autocomplete="on" autofocus><br><br>
+    Country code:<input type="text" name="country_code" pattern="[A-Za-z]{3}" title="3 letter country code"><br><br>
+    Choose file: <input type="file" name="file" multiple><br><br>
+    <input type="submit" formmethod="post" formaction="5 lists.html">
+    <input type="submit" formnovalidate formenctype="multipart/form-data" value="Submit as Multipart/form-data" formtarget="_blank">
+</Form>
+term & conditions:<input type="checkbox" name="terms" form="form1">
+</body>
+</html>
