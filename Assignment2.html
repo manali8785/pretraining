@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Exercise 2</title>
+    <link rel="stylesheet" href="base.css"/>
+    <style>
+    .big_circle{
+        width: 300px;
+        height: 300px;
+        background: gray;
+        border-radius: 150px;
+        position: static;
+        float: left;
+    }
+    .small_circle{
+        width: 250px;
+        height: 250px;
+        background: yellow;
+        border-radius: 50%;
+        position: relative;
+        top:25px;
+        left: 25px;
+    }
+    .left_top{
+        width: 50%;
+        height: 50%;
+        background: green;
+        border-top-left-radius: 100%;
+    }
+    .right_top{
+        width: 50%;
+        height: 50%;
+        background: orange;
+        border-top-right-radius: 100%;
+        position: absolute;
+        right: 0;
+        top:0;
+    }
+    .left_bottom{
+        width: 50%;
+        height: 50%;
+        background:red;
+        border-bottom-left-radius: 100%;
+    }
+    .right_bottom{
+        width: 50%;
+        height: 50%;
+        background: blue;
+        border-bottom-right-radius: 100%;
+        position: absolute;
+        bottom: 0;
+        right: 0;
+    }
+
+    </style>
+</head>
+<body>
+    <div class="big_circle">
+        <div class="small_circle">
+            <div class="left_top"></div>
+            <div class="right_top"></div>
+            <div class="left_bottom"></div>
+            <div class="right_bottom"></div>
+        </div>
+    </div>
+    Game theory is "the study of mathematical models of conflict and cooperation between intelligent rational decision-makers."[1] Game theory is mainly used in economics, political science, and psychology, as well as logic, computer science, and biology. Originally, it addressed zero-sum games, in which one person's gains result in losses for the other participants. Today, game theory applies to a wide range of behavioral relations, and is now an umbrella term for the science of logical decision making in humans, animals, and computers.
+    Modern game theory began with the idea regarding the existence of mixed-strategy equilibria in two-person zero-sum games and its proof by John von Neumann. Von Neumann's original proof used Brouwer fixed-point theorem on continuous mappings into compact convex sets, which became a standard method in game theory and mathematical economics. His paper was followed by the 1944 book Theory of Games and Economic Behavior, co-written with Oskar Morgenstern, which considered cooperative games of several players. The second edition of this book provided an axiomatic theory of expected utility, which allowed mathematical statisticians and economists to treat decision-making under uncertainty.
+    This theory was developed extensively in the 1950s by many scholars. Game theory was later explicitly applied to biology in the 1970s, although similar developments go back at least as far as the 1930s. Game theory has been widely recognized as an important tool in many fields. With the Nobel Memorial Prize in Economic Sciences going to game theorist Jean Tirole in 2014, eleven game-theorists have now won the economics Nobel Prize. John Maynard Smith was awarded the Crafoord Prize for his application of game theory to biology.The normal (or strategic form) game is usually represented by a matrix which shows the players, strategies, and payoffs (see the example to the right). More generally it can be represented by any function that associates a payoff for each player with every possible combination of actions. In the accompanying example there are two players; one chooses the row and the other chooses the column. Each player has two strategies, which are specified by the number of rows and the number of columns. The payoffs are provided in the interior. The first number is the payoff received by the row player (Player 1 in our example); the second is the payoff for the column player (Player 2 in our example). Suppose that Player 1 plays Up and that Player 2 plays Left. Then Player 1 gets a payoff of 4, and Player 2 gets 3.
+    When a game is presented in normal form, it is presumed that each player acts simultaneously or, at least, without knowing the actions of the other. If players have some information about the choices of other players, the game is usually presented in extensive form.
+    Every extensive-form game has an equivalent normal-form game, however the transformation to normal form may result in an exponential blowup in the size of the representation, making it computationally impractical.[4]
+</body>
+</html>
